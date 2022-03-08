@@ -1,0 +1,11 @@
+.banner{
+  width: 100%;
+}
+.banner img{
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+}
+.App{
+  text-align: center;
+}
